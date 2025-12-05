@@ -1,0 +1,8 @@
+add
+store 0 1 5
+store 0 2 10
+store 0 3 90
+store 0 4 99
+defra 0
+infor 0
+exit

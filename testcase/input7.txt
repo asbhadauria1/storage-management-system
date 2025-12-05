@@ -1,0 +1,18 @@
+add
+store 0 1 10
+store 0 2 20
+store 0 3 30
+store 0 4 40
+take 0 1
+infos 0
+infor 0
+take 0 2
+infos 0
+infor 0
+take 0 3
+infos 0
+infor 0
+take 0 4
+infos 0
+infor 0
+exit

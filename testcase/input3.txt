@@ -1,0 +1,11 @@
+infor 0
+infor 1
+infor 2
+infor 3
+infor 4
+infor 5
+infor 6
+infor 7
+infor 8
+infor 9
+exit

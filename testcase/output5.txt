@@ -1,0 +1,9 @@
+ --- Welcome to the locker management system! --- 
+Student 0 added.
+Total students: 1 Actual students: 1
+Student 0: 3 items
+  Item 1: size 70
+  Item 2: size 80
+  Item 3: size 90
+Room 0: 5 lockers
+Lockers: [1: 100/100] -> [0: 100/100] -> [4: 30/100] (Items: Item 1 student 0 size 70) -> [3: 20/100] (Items: Item 2 student 0 size 80) -> [2: 10/100] (Items: Item 3 student 0 size 90)

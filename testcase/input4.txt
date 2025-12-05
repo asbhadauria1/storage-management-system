@@ -1,0 +1,10 @@
+add
+add
+add
+remove 0
+infos -1
+remove 1
+infos -1
+remove 2
+infos -1
+exit

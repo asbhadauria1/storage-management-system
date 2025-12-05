@@ -1,0 +1,8 @@
+ --- Welcome to the locker management system! --- 
+Student 0 added.
+Student 1 added.
+Student 2 added.
+Total students: 3 Actual students: 3
+Student 0: 0 items
+Student 1: 0 items
+Student 2: 0 items

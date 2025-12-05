@@ -1,0 +1,5 @@
+ --- Welcome to the locker management system! --- 
+Student 0 added.
+Total students: 1 Actual students: 0
+Room 0: 5 lockers
+Lockers: [4: 100/100] -> [3: 100/100] -> [2: 100/100] -> [1: 100/100] -> [0: 100/100]

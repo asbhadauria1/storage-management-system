@@ -1,0 +1,2 @@
+make
+./storage_management

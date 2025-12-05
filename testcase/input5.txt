@@ -1,0 +1,7 @@
+add
+store 0 1 70
+store 0 2 80
+store 0 3 90
+infos 0
+infor 0
+exit

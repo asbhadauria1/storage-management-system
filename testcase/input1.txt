@@ -1,0 +1,3 @@
+add
+infos 0
+exit
